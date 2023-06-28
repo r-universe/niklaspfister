@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CausalKinetiX"]
 	path = CausalKinetiX
 	url = https://github.com/cran/CausalKinetiX
-	shallow = true
-	registered = true
 [submodule "StabilizedRegression"]
 	path = StabilizedRegression
 	url = https://github.com/niklaspfister/stabilizedregression-r
-	shallow = true
 	subdir = StabilizedRegression
-	registered = true
