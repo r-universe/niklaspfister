@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CausalKinetiX"]
-	path = CausalKinetiX
-	url = https://github.com/cran/CausalKinetiX
 [submodule "StabilizedRegression"]
 	path = StabilizedRegression
 	url = https://github.com/niklaspfister/stabilizedregression-r
