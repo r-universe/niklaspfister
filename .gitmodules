@@ -6,3 +6,6 @@
 	path = StabilizedRegression
 	url = https://github.com/niklaspfister/stabilizedregression-r
 	subdir = StabilizedRegression
+[submodule "dHSIC"]
+	path = dHSIC
+	url = https://github.com/niklaspfister/dhsic
